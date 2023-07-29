@@ -21,9 +21,8 @@
 <a href="https://linkedin.com/in/amogha b v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amogha b v" height="30" width="40" /></a>
 </p>
 
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" alt="Google Cloud Symbol" width="200" height="100">
-<a href="https://www.cloudskillsboost.google/public_profiles/af609cc0-ac07-465d-acf5-8ece4e18936a">Profile 1</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/b7b1a0fd-16fb-4749-8e66-21d2e3cf89e5">Profile 2</a>
+<h4 align="left">Profiles:</h4>
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" alt="Google Cloud Symbol" width="200" height="100"><a href="https://www.cloudskillsboost.google/public_profiles/af609cc0-ac07-465d-acf5-8ece4e18936a">Profile 1</a><a href="https://www.cloudskillsboost.google/public_profiles/b7b1a0fd-16fb-4749-8e66-21d2e3cf89e5">Profile 2</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
