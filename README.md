@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 🚀Welcome to an Explorer's Space🚀
 
