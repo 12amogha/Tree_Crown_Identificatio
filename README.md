@@ -9,7 +9,7 @@
 🌟 I'm Interested in : AIML ,MLOps , Cyber Security & Etical Hacking, and Research!
 
 ⚡ Fun fact: MLops Cloud Architects are like data acrobats in the cloud circus, juggling innovation, design thinking ,data structures, and machine learning while performing magic tricks to make AI dance 
-              securely like never before!🎩🎪🔒✨
+               securely like never before!🎩🎪🔒✨
 
 📫 How to reach me: https://www.linkedin.com/in/amogha-b-v-6a010b1a6/             
 
