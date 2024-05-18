@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/12amogha" target="blank"><img src="https://img.shields.io/twitter/follow/12amogha?logo=twitter&style=for-the-badge" alt="12amogha" /></a> </p>
 
-- 🌱 I’m currently learning **DSA ,AIML,MLOps and Ethical Hacking**
+- 🌱 **Food , Healthcare ,and Gaming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/12amogha?tab=repositories](https://github.com/12amogha?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/amogha-b-v-6a010b1a6/**
-
-- ⚡ Fun fact **MLops Cloud Architects are like data acrobats in the cloud circus, juggling innovation, design thinking ,data structures, and machine learning while performing magic tricks to make AI dance securely like never before!🎩🎪🔒✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
