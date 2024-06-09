@@ -19,23 +19,6 @@
 <a href="https://linkedin.com/in/amogha b v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amogha b v" height="30" width="40" /></a>
 </p>
 
-<h12 align="left">Services:</h12>
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/amogha_b_v rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-c00073d4-d754-4321-968c-3799ce3e6c47' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >amogha_b_v</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Currently pursing Engineering in AIML, skilled in AI and ML, with a rich background as a Co-founder of an AI-based Company. Winner of numerous National and Government-sponsored hackathons, including those by IBM and Smart India Hackathon (SIH). Completed over 50 successful projects to date.</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-c00073d4-d754-4321-968c-3799ce3e6c47' src='https://widgets.fiverr.com/api/v1/seller/amogha_b_v?widget_id=c00073d4-d754-4321-968c-3799ce3e6c47' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
-
 
 <h4 align="left">Profiles:</h4>
 <a href="https://www.cloudskillsboost.google/public_profiles/b7b1a0fd-16fb-4749-8e66-21d2e3cf89e5"><img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" alt="Google Cloud Symbol" width="200" height="100"></a>
