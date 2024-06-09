@@ -20,6 +20,8 @@
 </p>
 
 <h12 align="left">Services:</h12>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/amogha_b_v rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-c00073d4-d754-4321-968c-3799ce3e6c47' itemprop='contentURL' style='display: none;'></div>
